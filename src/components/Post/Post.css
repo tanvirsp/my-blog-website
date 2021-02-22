@@ -1,0 +1,12 @@
+
+.all-post-area{
+    width: 700px;
+    margin: 20px auto;
+    padding: 50px 20px;
+    border-radius: 25px;
+    background-color:white; 
+   
+    box-shadow: 1px 1px 2px lightgray;
+    
+   
+}

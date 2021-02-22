@@ -1,0 +1,36 @@
+.postDetails{
+    
+    background-color: #f7f7f7;
+    padding: 30px 0 30px 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+}
+
+.post-area{
+    width: 700px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 50px ;
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px lightgray;    
+}
+.post-area h1 {
+    font-size: 35px;
+    line-height: 45px;   
+}
+.post-area h1::after{
+    content: "";
+    display: block;
+    width: 200px;
+    height: 5px;
+    background-color: lightgray;
+    margin: 20px  auto 0px;
+    border-radius: 10px;
+}
+.post-area p {
+    margin-top: 20px;
+    text-align: justify;
+}
